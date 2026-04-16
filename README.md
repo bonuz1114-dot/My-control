@@ -13,7 +13,7 @@ Live Demo: https://my-control-web.vercel.app
 
 ## 📸 Screenshot
 
-![Robot UI](./screenshot.png)
+![Robot UI](./Screenshot controller.png)
 
 # Installation
 1. clone or copy the button.jsx file into your project.
