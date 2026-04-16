@@ -1,6 +1,6 @@
 # React Robot Controller
 
-This is a lightweight web-based control interface built with React + Vite + Tailwind to navigate your robot.
+This is a lightweight web-based control via browser built with React + Vite + Tailwind to navigate your robot.
 
 # Demo features
 
@@ -9,7 +9,11 @@ This is a lightweight web-based control interface built with React + Vite + Tail
 - Live command feedback in the browser console
 
 # Website 
-Live Demo: 
+Live Demo: https://my-control-web.vercel.app
+
+## 📸 Screenshot
+
+![Robot UI](./screenshot.png)
 
 # Installation
 1. clone or copy the button.jsx file into your project.
